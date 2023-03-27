@@ -1,3 +1,4 @@
+![logo](https://github.com/umair-khan1/umair-khan1/blob/main/blue%20white%20modern%20Business%20Webinar%20Banner%20Landscape.jpg)
 <h1 align="center">Hi 👋, I'm Umair Khan</h1>
 <h3 align="center">A passionate web developer from pakistan</h3>
 
